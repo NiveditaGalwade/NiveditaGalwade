@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/NiveditaGalwade/NiveditaGalwade/a0c97f9926b5146c3cf4f56d3f94e71a95eddd77/Hi.gif" width="30px">Hi, I am Nivedita 👩🏻‍💻
+# <img src="https://raw.githubusercontent.com/NiveditaGalwade/NiveditaGalwade/a0c97f9926b5146c3cf4f56d3f94e71a95eddd77/Hi.gif" width="30px"> Hi, I am Nivedita 👩🏻‍💻
 
 A .Net developer with 8 years of experience in C#, .NET Core, web API, xUnit, AWS, and Jenkins, I specialize in delivering robust solutions. 
 
